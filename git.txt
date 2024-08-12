@@ -1,1 +1,2 @@
 "Welcome to Github"
+"Learning is fun"
